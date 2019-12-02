@@ -77,7 +77,7 @@
     "react"
   ],
   "dependencies": {
-    "ace-builds": "^1.4.6",
+    "ace-builds": "quadency/ace-builds#b1a5c89067f5bc297269847b3ece434718b30872",
     "diff-match-patch": "^1.0.4",
     "lodash.get": "^4.4.2",
     "lodash.isequal": "^4.5.0",
