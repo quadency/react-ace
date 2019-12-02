@@ -38,8 +38,8 @@ node_modules
 .vscode
 
 # Babel Build
-lib
+# lib (commented out because need build files because using our own hosted repo on github)
 
 # UMD Build
-dist
+# dist (commented out because need build files because using our own hosted repo on github)
 example/static
